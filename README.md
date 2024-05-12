@@ -7,4 +7,4 @@ Provided actionable insights to codeX's Marketing team to enhance brand awarenes
 
 Extracted and interpreted data to uncover valuable trends and patterns, informing key marketing decisions.
 
-Created a comprehensive PowerPoint presentation to effectively communicate findings to the leadership team, highlighting growth opportunities in the Indian market.
+## Created a comprehensive PowerPoint presentation to effectively communicate findings to the leadership team, highlighting growth opportunities in the Indian market.
